@@ -22,6 +22,7 @@ Serial.begin(115200);
   // rtc.setDate(1, 1, 2022);    // Set the date to January 1, 2022
 
   Serial.println("DS1302 RTC initialized");
+  Serial.println("kahsish");
 
 }
 
