@@ -23,6 +23,7 @@ Serial.begin(115200);
 
   Serial.println("DS1302 RTC initialized");
   Serial.println("kahsish");
+  Serial.println("GITHUB");
 
 }
 
